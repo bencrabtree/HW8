@@ -79,7 +79,7 @@ for item in umsi_tweets:
 #  5- Use the database connection to commit the changes to the database
 conn.commit()
 
-# You can check out whether it worked in the SQLite browser! (And with the tests.)
+# You can check out whether it worked in the SQLite browser! (And with the tests)
 
 ## [PART 3] - SQL statements
 print ("tests for part 2")
